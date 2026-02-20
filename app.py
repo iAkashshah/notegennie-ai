@@ -4,9 +4,9 @@ from PyPDF2 import PdfReader
 from PIL import Image
 import io
 
-st.set_page_config(page_title="CollegeGem AI", page_icon="🎓", layout="wide")
-st.title("🎓 CollegeGem AI")
-st.caption("Your Free Gemini 2.5 Flash Study Buddy • Made for College Students")
+st.set_page_config(page_title="Notegennie AI", page_icon="🎓", layout="wide")
+st.title("🎓 Notegennie AI")
+st.caption("Your Notegennie AI 2.5 Flash Study Buddy • Made by Akash Shah for College Students ")
 
 # Sidebar
 with st.sidebar:
